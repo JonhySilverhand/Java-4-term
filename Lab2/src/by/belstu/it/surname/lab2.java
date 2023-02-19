@@ -1,4 +1,4 @@
-package by.belstu.it.smirnov;
+package by.belstu.it.surname;
 
 public class lab2 {
     public String getValue(){

@@ -1,4 +1,4 @@
-package by.belstu.it.smirnov.basejava;
+package by.belstu.it.surname.basejava;
 
 import static java.lang.Math.log;
 import static java.lang.Math.min;

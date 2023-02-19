@@ -1,4 +1,4 @@
-import by.belstu.it.smirnov.lab2;
+import by.belstu.it.surname.lab2;
 
 public class Main {
     public static void main(String[] args) {

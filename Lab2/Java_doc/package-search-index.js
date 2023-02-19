@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"by.belstu.it.smirnov"},{"l":"by.belstu.it.smirnov.basejava"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"by.belstu.it.surname"},{"l":"by.belstu.it.surname.basejava"}];updateSearchResults();
