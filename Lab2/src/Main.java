@@ -1,6 +1,10 @@
+import by.belstu.it.smirnov.lab2;
+
 public class Main {
     public static void main(String[] args) {
         //TODO Add a new method
-        System.out.println("Hello world!");
+        lab2 test = new lab2();
+        System.out.println(test.getValue());
+
     }
 }

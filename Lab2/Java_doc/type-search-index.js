@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"by.belstu.it.smirnov.basejava","l":"JavaTest"},{"p":"by.belstu.it.smirnov","l":"lab2"},{"p":"<Unnamed>","l":"Main"},{"p":"by.belstu.it.smirnov.basejava","l":"WrapperString"}];updateSearchResults();
