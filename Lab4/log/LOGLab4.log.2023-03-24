@@ -1,0 +1,82 @@
+24.03.2023  13:25:58 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:25:58 [main] DEBUG Main  - Check all input data...
+24.03.2023  13:25:58 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:25:58 [main] ERROR Main  - An error has occured with searchSpeed() method
+24.03.2023  13:25:58 [main] INFO  Main  - You successfully run this program!
+24.03.2023  13:26:01 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:26:01 [main] DEBUG Main  - Check all input data...
+24.03.2023  13:26:01 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:26:01 [main] ERROR Main  - An error has occured with searchSpeed() method
+24.03.2023  13:26:01 [main] INFO  Main  - You successfully run this program!
+24.03.2023  13:26:04 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:26:04 [main] DEBUG Main  - Check all input data...
+24.03.2023  13:26:04 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:26:04 [main] ERROR Main  - An error has occured with searchSpeed() method
+24.03.2023  13:26:04 [main] INFO  Main  - You successfully run this program!
+24.03.2023  13:26:07 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:26:07 [main] DEBUG Main  - Check all input data...
+24.03.2023  13:26:07 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:26:07 [main] ERROR Main  - An error has occured with searchSpeed() method
+24.03.2023  13:26:07 [main] INFO  Main  - You successfully run this program!
+24.03.2023  13:26:09 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:26:09 [main] DEBUG Main  - Check all input data...
+24.03.2023  13:26:09 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:26:09 [main] ERROR Main  - An error has occured with searchSpeed() method
+24.03.2023  13:26:09 [main] INFO  Main  - You successfully run this program!
+24.03.2023  13:45:20 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:45:20 [main] FATAL Main  - Fatal error! Index 0 out of bounds for length 0
+24.03.2023  13:47:49 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:47:49 [main] FATAL Main  - Fatal error! Index 0 out of bounds for length 0
+24.03.2023  13:51:51 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:51:51 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:51:51 [main] ERROR Main  - This method can cause an error
+24.03.2023  13:51:51 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  13:52:20 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:52:20 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:52:20 [main] ERROR Main  - This method can cause an error
+24.03.2023  13:52:20 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  13:54:24 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:54:24 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:54:24 [main] ERROR Main  - This method can cause an error
+24.03.2023  13:54:24 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  13:56:34 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:56:34 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:56:34 [main] ERROR Main  - This method can cause an error
+24.03.2023  13:56:34 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  13:58:26 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  13:58:26 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  13:58:26 [main] ERROR Main  - This method can cause an error
+24.03.2023  13:58:26 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  14:02:49 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  14:02:49 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  14:02:49 [main] ERROR Main  - This method can cause an error
+24.03.2023  14:02:49 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  14:04:30 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  14:04:30 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  14:04:30 [main] ERROR Main  - This method can cause an error
+24.03.2023  14:04:30 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  14:04:42 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  14:04:45 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  14:04:45 [main] ERROR Main  - This method can cause an error
+24.03.2023  14:04:45 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  14:04:49 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  14:12:59 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  14:12:59 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  14:12:59 [main] ERROR Main  - This method can cause an error
+24.03.2023  14:12:59 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  14:13:10 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  14:13:10 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  14:13:10 [main] ERROR Main  - This method can cause an error
+24.03.2023  14:13:10 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  14:13:55 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  14:13:55 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  14:13:55 [main] ERROR Main  - This method can cause an error
+24.03.2023  14:13:55 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  14:15:34 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  14:15:34 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  14:15:34 [main] ERROR Main  - This method can cause an error
+24.03.2023  14:15:34 [main] INFO  Main  - You successfully ran this program!
+24.03.2023  14:19:11 [main] INFO  Main  - Starting program_____________________________
+24.03.2023  14:19:11 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+24.03.2023  14:19:11 [main] ERROR Main  - This method can cause an error
+24.03.2023  14:19:12 [main] INFO  Main  - You successfully ran this program!

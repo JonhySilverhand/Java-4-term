@@ -1,0 +1,4 @@
+30.03.2023  22:52:13 [main] INFO  Main  - Starting program_____________________________
+30.03.2023  22:52:13 [main] DEBUG Main  - Debug method getCompanyProfit() to understand it
+30.03.2023  22:52:13 [main] ERROR Main  - This method can cause an error
+30.03.2023  22:52:13 [main] INFO  Main  - You successfully ran this program!

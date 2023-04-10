@@ -1,0 +1,46 @@
+[
+  {
+    "truck_type": "truck",
+    "taxiFare": 1.7,
+    "taxi_name": "Volkswagen Transporter",
+    "fuelRate": 0.26,
+    "taxi_speed": 110,
+    "taxi_Fare": 1.0,
+    "profit": 3.20753019360636,
+    "fuel": 0,
+    "speed": 0
+  },
+  {
+    "type": "economy",
+    "taxiFare": 1.2,
+    "taxi_name": "Volkswagen Polo",
+    "fuelRate": 0.12,
+    "taxi_speed": 130,
+    "taxi_Fare": 1.0,
+    "profit": 4.782838063292815,
+    "fuel": 0,
+    "speed": 0
+  },
+  {
+    "type": "comfort",
+    "taxiFare": 1.4,
+    "taxi_name": "Mitsubishi Lancer",
+    "fuelRate": 0.13,
+    "taxi_speed": 190,
+    "taxi_Fare": 1.0,
+    "profit": 11.297704441484024,
+    "fuel": 0,
+    "speed": 0
+  },
+  {
+    "type": "comfortPlus",
+    "taxiFare": 1.5,
+    "taxi_name": "Mercedes-Benz E200",
+    "fuelRate": 0.17,
+    "taxi_speed": 200,
+    "taxi_Fare": 1.0,
+    "profit": 1.2344847086744282,
+    "fuel": 0,
+    "speed": 0
+  }
+]
