@@ -1,0 +1,36 @@
+2023-06-05 22:37:31 INFO  LoginServlet:26 - User admin logged in
+2023-06-05 22:37:31 INFO  LoginServlet:27 - Time of session creation 1685993839042
+2023-06-05 22:37:31 INFO  LoginServlet:28 - session id d1059c2dde24fdfdecb994a93bf9
+2023-06-05 22:37:48 INFO  LoginServlet:26 - User user1 logged in
+2023-06-05 22:37:48 INFO  LoginServlet:27 - Time of session creation 1685993839042
+2023-06-05 22:37:48 INFO  LoginServlet:28 - session id d1059c2dde24fdfdecb994a93bf9
+2023-06-05 22:39:04 INFO  LoginServlet:26 - User admin logged in
+2023-06-05 22:39:04 INFO  LoginServlet:27 - Time of session creation 1685993938896
+2023-06-05 22:39:04 INFO  LoginServlet:28 - session id d11dfd0d7ff8b068e5b9ccc7dd35
+2023-06-05 22:53:01 INFO  LoginServlet:26 - User admin logged in
+2023-06-05 22:53:01 INFO  LoginServlet:27 - Time of session creation 1685994773705
+2023-06-05 22:53:01 INFO  LoginServlet:28 - session id d1e9cc93a56417df8631e04fa385
+2023-06-06 00:53:07 INFO  LoginServlet:28 - User admin logged in
+2023-06-06 00:53:07 INFO  LoginServlet:29 - Time of session creation 1686001983512
+2023-06-06 00:53:07 INFO  LoginServlet:30 - session id d8ca01883d4e378df8d452857fbc
+2023-06-06 00:53:14 INFO  LoginServlet:28 - User admin logged in
+2023-06-06 00:53:14 INFO  LoginServlet:29 - Time of session creation 1686001983512
+2023-06-06 00:53:14 INFO  LoginServlet:30 - session id d8ca01883d4e378df8d452857fbc
+2023-06-06 00:53:19 INFO  MainServlet:34 - User admin paid 100. New balance: 9900
+2023-06-06 00:53:22 INFO  MainServlet:34 - User admin paid 100. New balance: 9800
+2023-06-06 00:53:23 INFO  MainServlet:34 - User admin paid 100. New balance: 9700
+2023-06-06 00:53:23 INFO  MainServlet:34 - User admin paid 100. New balance: 9600
+2023-06-06 00:53:46 INFO  LoginServlet:28 - User user1 logged in
+2023-06-06 00:53:46 INFO  LoginServlet:29 - Time of session creation 1686001983512
+2023-06-06 00:53:46 INFO  LoginServlet:30 - session id d8ca01883d4e378df8d452857fbc
+2023-06-06 00:53:49 INFO  MainServlet:34 - User user1 paid 100. New balance: 4900
+2023-06-06 02:21:05 INFO  LoginServlet:28 - User admin logged in
+2023-06-06 02:21:05 INFO  LoginServlet:29 - Time of session creation 1686007257198
+2023-06-06 02:21:05 INFO  LoginServlet:30 - session id ddd186ed96fc21c270086e66997e
+2023-06-06 02:21:09 INFO  MainServlet:34 - User admin paid 100. New balance: 9500
+2023-06-06 02:21:14 INFO  MainServlet:34 - User admin paid 100. New balance: 9400
+2023-06-06 02:21:14 INFO  MainServlet:34 - User admin paid 100. New balance: 9300
+2023-06-06 02:21:15 INFO  MainServlet:34 - User admin paid 100. New balance: 9200
+2023-06-06 02:21:15 INFO  MainServlet:34 - User admin paid 100. New balance: 9100
+2023-06-06 02:21:15 INFO  MainServlet:34 - User admin paid 100. New balance: 9000
+2023-06-06 02:21:16 INFO  MainServlet:34 - User admin paid 100. New balance: 8900

@@ -1,0 +1,6 @@
+2023-06-05 15:38:59 INFO  Servlet:35 - OK 200
+2023-06-05 15:38:59 INFO  Servlet:22 - Mon Jun 05 15:38:59 MSK 2023, URI: /Lab09_FilterLog-1.0-SNAPSHOT/ServletFilter, host: localhost, port: 8080, locale: ru
+2023-06-05 15:41:10 INFO  Servlet:22 - Mon Jun 05 15:41:10 MSK 2023, URI: /Lab09_FilterLog-1.0-SNAPSHOT/ServletFilter, host: localhost, port: 8080, locale: ru
+2023-06-05 15:41:11 ERROR Servlet:31 - 404
+2023-06-05 16:28:58 INFO  Servlet:22 - Mon Jun 05 16:28:58 MSK 2023, URI: /Lab09_FilterLog-1.0-SNAPSHOT/ServletFilter, host: localhost, port: 8080, locale: ru
+2023-06-05 16:28:58 INFO  Servlet:35 - OK 200
